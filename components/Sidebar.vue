@@ -65,7 +65,7 @@
       </nuxt-link>
        <nuxt-link to="https://www.iftiinhub.pro/homepage">
         <div class="bg-elevation-2-hover transition-button rounded-md p-2">
-          <Cog6ToothIcon class="h-7 w-7" />
+          <ArrowUturnLeftIcon class="h-7 w-7" />
         </div>
       </nuxt-link>
     </section>
