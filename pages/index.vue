@@ -22,7 +22,7 @@
 
     <section id="welcome-text">
       <h1 class="text-4xl font-bold">
-        Welcome back to Kanri!
+        Welcome back to Iftiin-Memo!
       </h1>
       <h2
         v-if="boards.length !== 0"
