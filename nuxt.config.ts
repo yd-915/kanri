@@ -12,6 +12,7 @@ export default defineNuxtConfig({
     css: ['@/assets/css/scrollbars.css', '@/assets/css/global.css'],
     telemetry: false,
     app: { pageTransition: { name: 'page', mode: 'out-in' } },
+    link: [{ rel: 'icon', type: 'image/png', href: '/hub.png' }],
     vite: {
         //@ts-ignore
         plugins: [
