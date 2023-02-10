@@ -6,7 +6,7 @@
         "distDir": "../.output/public"
     },
     "package": {
-        "productName": "kanri",
+        "productName": "iftiin-hub",
         "version": "0.3.2"
     },
     "tauri": {
@@ -52,9 +52,9 @@
             },
             "externalBin": [],
             "icon": [
-                "icons/32x32.png",
-                "icons/128x128.png",
-                "icons/128x128@2x.png",
+                "icons/hub.png",
+                "icons/hub.png",
+                "icons/hub.png",
                 "icons/icon.icns",
                 "icons/icon.ico"
             ],
