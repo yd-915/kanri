@@ -24,7 +24,7 @@
         id="logo"
         class="flex flex-row rounded-md"
       >
-        <IconKanri class="h-12 w-12" />
+       <img src="hub.png" alt="" class="h-12 w-12">
       </div>
       <div @click="$router.go(-1)">
         <div class="bg-elevation-2-hover rounded-md p-2">
