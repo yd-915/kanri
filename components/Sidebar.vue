@@ -28,7 +28,7 @@
       </div>
       <div @click="$router.go(-1)">
         <div class="bg-elevation-2-hover rounded-md p-2">
-          <HomeIcon
+          <ArrowUturnLeftIcon
             v-if="showAddButton"
             class="h-7 w-7"
           />
@@ -65,7 +65,7 @@
       </nuxt-link>
        <nuxt-link to="https://www.iftiinhub.pro/homepage">
         <div class="bg-elevation-2-hover transition-button rounded-md p-2">
-          <ArrowUturnLeftIcon class="h-7 w-7" />
+          <HomeIcon class="h-7 w-7" />
         </div>
       </nuxt-link>
     </section>
